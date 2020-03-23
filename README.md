@@ -8,7 +8,7 @@ Docker environment to perform OpenFOAM-extend-4.0
 ```
 $ docker build -t nishiys/simple_openfoam-extend-v4:v1.0 .
 ```
-- 
+
 ## How to use
 
 ```shell
