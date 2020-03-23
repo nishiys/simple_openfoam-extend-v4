@@ -31,3 +31,6 @@ You can use docker.sh to avoid the long command everytime
 ```
 $ ./docker.sh
 ```
+
+## See also
+[The Complete Guide to Docker & OpenFOAM · CFD Engine](https://www.cfdengine.com/blog/how-to-install-openfoam-anywhere-with-docker/)
