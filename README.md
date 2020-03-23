@@ -19,3 +19,9 @@ $ docker container run -ti --rm -v $PWD:/data -w /data nishiys/simple_openfoam-e
 > fe40 
 > ... (e.g. ./Allrun)
 ```
+
+You can use docker.sh to avoid the long command everytime
+
+```
+$ ./docker.sh
+```
