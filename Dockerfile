@@ -1,5 +1,5 @@
 FROM ubuntu:bionic
-
+MAINTAINER nishiys
 RUN apt-get update \
 	&& apt-get install -y \
         # from the installation guide
